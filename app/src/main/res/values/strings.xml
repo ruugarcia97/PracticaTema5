@@ -17,4 +17,6 @@
     <string name="txtTiempo">Tiempo Mensaje</string>
     <string name="btnLanzar2">Lanzar</string>
     <string name="btnMostrar">Mostrar</string>
+    <string name="tituloToast">Configurar Toast</string>
+    <string name="tituloNotificacion">Configurar Notificacion</string>
 </resources>
