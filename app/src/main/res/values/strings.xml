@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practica Tema 5</string>
+    <string name="btnToast">Lanzar Toast</string>
+    <string name="btnNotificacion">Lanzar Notificacion</string>
+    <string name="txtDHorizontal">Desplazamiento Horizontal</string>
+    <string name="txtDVertical">Desplazamiento Vertical</string>
+    <string name="txtToast">Introduce el texto a Mostrar</string>
+    <string name="Derecha">Derecha</string>
+    <string name="Medio">Medio</string>
+    <string name="Izquierda">Izquierda</string>
+    <string name="Arriba">Arriba</string>
+    <string name="Centro">Centro</string>
+    <string name="Abajo">Abajo</string>
+    <string name="btnLanzar">Lanzar</string>
+    <string name="txtTitulo">Titulo Mensaje</string>
+    <string name="txtTexto">Texto Mensaje</string>
+    <string name="txtTiempo">Tiempo Mensaje</string>
+    <string name="btnLanzar2">Lanzar</string>
+    <string name="btnMostrar">Mostrar</string>
+</resources>
